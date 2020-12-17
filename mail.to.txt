@@ -1,3 +1,3 @@
 情報太郎=ipsj-ubi-k@ht.sfc.keio.ac.jp=優秀論文賞
-情報一郎=ipsj-ubi-m@@ht.sfc.keio.ac.jp=学生奨励賞
-情報次郎=ipsj-ubi-w@@ht.sfc.keio.ac.jp=国際発表奨励賞
+情報一郎=ipsj-ubi-m@ht.sfc.keio.ac.jp=学生奨励賞
+情報次郎=ipsj-ubi-w@ht.sfc.keio.ac.jp=国際発表奨励賞
